@@ -1,0 +1,52 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 5/27/2015 11:27:35 AM
+#Cmp ( order = Reference )
+| AFF1       7SEGMENTS   
+| AFF2       7SEGMENTS   
+| C104       C           
+| P2         CONN_2      
+| P3         DIL16       
+| P4         CONN_2      
+| P5         CONN_2      
+| Q1         TIP127      
+| Q2         TIP127      
+| R1         R           
+| R2         R           
+| R3         R           
+| R4         R           
+| R5         R           
+| R6         R           
+| R7         R           
+| R8         R           
+| R9         2.2K        
+| R10        2.2K        
+| R11        JMP_E       
+| U1         ULN2003A    
+| U2         ULN2803A    
+#End Cmp
+
+#Cmp ( order = Value )
+| 7SEGMENTS    AFF1      
+| 7SEGMENTS    AFF2      
+| C            C104      
+| CONN_2       P2        
+| DIL16        P3        
+| CONN_2       P4        
+| CONN_2       P5        
+| TIP127       Q1        
+| TIP127       Q2        
+| 2.2K         R9        
+| 2.2K         R10       
+| R            R1        
+| R            R2        
+| R            R3        
+| R            R4        
+| R            R5        
+| R            R6        
+| R            R7        
+| R            R8        
+| JMP_E        R11       
+| ULN2003A     U1        
+| ULN2803A     U2        
+#End Cmp
+
+#End List

@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 09-Jan-14 1:56:48 PM
+
+BeginCmp
+TimeStamp = /52A16E7E;
+Reference = AFF1;
+ValeurCmp = 7SEGMENTS;
+IdModule  = 2INCH_DISPLAY_REVERSE_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16E95;
+Reference = AFF2;
+ValeurCmp = 7SEGMENTS;
+IdModule  = 2INCH_DISPLAY_REVERSE_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A18134;
+Reference = C104;
+ValeurCmp = C;
+IdModule  = Ideonics_Ceramic;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A17B53;
+Reference = P1;
+ValeurCmp = FRC20;
+IdModule  = HE10_20D;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A18004;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = Ideonics_RMC_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A191C6;
+Reference = P3;
+ValeurCmp = DIL16;
+IdModule  = pin_array_8x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52CD1732;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = Ideonics_RMC_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52CD1944;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16F08;
+Reference = Q1;
+ValeurCmp = TIP127;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16EFB;
+Reference = Q2;
+ValeurCmp = TIP127;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16E9D;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16ECA;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16ED5;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16EDB;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16EE1;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16EE7;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16EED;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16EF3;
+Reference = R8;
+ValeurCmp = R;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16F0E;
+Reference = R9;
+ValeurCmp = 2.2K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16F14;
+Reference = R10;
+ValeurCmp = 2.2K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52CD19AB;
+Reference = R11;
+ValeurCmp = JMP_E;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16E42;
+Reference = U1;
+ValeurCmp = ULN2003A;
+IdModule  = DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A16E65;
+Reference = U2;
+ValeurCmp = ULN2803A;
+IdModule  = DIP-18__300;
+EndCmp
+
+EndListe
